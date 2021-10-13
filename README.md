@@ -13,7 +13,11 @@ TODO: Create a Github repo with a readme file, and build a 1-page app that inclu
 
 
 ## Credits
+<<<<<<< HEAD
 Team member:
+=======
+Team member
+>>>>>>> dev.dyk.new
 Hiral Shah, Doyeon Kim
 
 
