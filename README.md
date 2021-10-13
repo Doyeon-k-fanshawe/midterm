@@ -13,8 +13,8 @@ TODO: Create a Github repo with a readme file, and build a 1-page app that inclu
 
 
 ## Credits
-Kim_D_shah_H_midterm
-TODO: Write credits
+Team member
+Doyeon Kim, Hiral Shah
 
 
 ## License : MIT
