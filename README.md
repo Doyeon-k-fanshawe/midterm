@@ -14,7 +14,7 @@ TODO: Create a Github repo with a readme file, and build a 1-page app that inclu
 
 ## Credits
 Team member:
-Doyeon Kim, Hiral Shah
+Hiral Shah, Doyeon Kim
 
 
 ## License : MIT
